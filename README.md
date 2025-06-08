@@ -11,21 +11,10 @@ SPDX-License-Identifier: GPL-2.0-or-later
   <br>
 </h1>
 
-<h4 align="center"><b>yuzu</b> is the world's most popular, open-source, Nintendo Switch emulator — started by the creators of <a href="https://citra-emu.org" target="_blank">Citra</a>.
+<h4 align="center"><b>uzuy</b> is a fork of the world's most popular, open-source, Nintendo Switch emulator — yuzu.
 <br>
-It is written in C++ with portability in mind, and we actively maintain builds for Windows, Linux and Android.
+It is written in C++ with portability in mind, and we hope to actively maintain builds for Windows, Linux and Android.
 </h4>
-
-<p align="center">
-    <a href="https://dev.azure.com/yuzu-emu/yuzu/">
-        <img src="https://dev.azure.com/yuzu-emu/yuzu/_apis/build/status/yuzu%20mainline?branchName=master"
-            alt="Azure Mainline CI Build Status">
-    </a>
-    <a href="https://discord.com/invite/u77vRWY">
-        <img src="https://img.shields.io/discord/398318088170242053?color=5865F2&label=yuzu&logo=discord&logoColor=white"
-            alt="Discord">
-    </a>
-</p>
 
 <p align="center">
   <a href="#compatibility">Compatibility</a> |
@@ -46,7 +35,7 @@ Check out our [website](https://yuzu-emu.org/) for the latest news on exciting f
 
 ## Development
 
-Most of the development happens on GitHub. It's also where [our central repository](https://github.com/yuzu-emu/yuzu) is hosted. For development discussion, please join us on [Discord](https://discord.com/invite/u77vRWY).
+Most of the development happens on GitHub. It's also where [our central repository](https://github.com/ume-uzuy) is hosted. For development discussion, please join us on [Discord](https://discord.com/invite/u77vRWY).
 
 If you want to contribute, please take a look at the [Contributor's Guide](https://github.com/yuzu-emu/yuzu/wiki/Contributing) and [Developer Information](https://github.com/yuzu-emu/yuzu/wiki/Developer-Information).
 You can also contact any of the developers on Discord in order to know about the current state of the emulator.
@@ -82,4 +71,4 @@ If you wish to support us a different way, please join our [Discord](https://dis
 
 ## License
 
-yuzu is licensed under the GPLv3 (or any later version). Refer to the [LICENSE.txt](https://github.com/yuzu-emu/yuzu/blob/master/LICENSE.txt) file.
+uzuy is licensed under the GPLv3 (or any later version). Refer to the [LICENSE.txt](https://github.com/yuzu-emu/yuzu/blob/master/LICENSE.txt) file.
